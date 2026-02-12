@@ -1,1 +1,3 @@
 {"level":"ERROR","timestamp":"2026-02-11T22:08:46.301-0300","msg":"failed to run git status","cause":"exit status 128"}
+{"level":"INFO","timestamp":"2026-02-11T22:26:16.196-0300","msg":"Commit has no parents"}
+{"level":"ERROR","timestamp":"2026-02-11T22:26:45.989-0300","msg":"failed to get parent commit","cause":"commit parent not found"}

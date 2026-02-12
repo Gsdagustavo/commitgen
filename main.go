@@ -7,7 +7,7 @@ import (
 	"log"
 	"log/slog"
 
-	"github.com/go-git/go-git"
+	"github.com/go-git/go-git/v5"
 )
 
 func main() {
